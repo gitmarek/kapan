@@ -22,7 +22,7 @@
 #define VERIOSN_STRING "0.0.0"
 #endif 
 
-
+static char *database = DATABASE;
 
 static char const short_options[] = "d:f:r:a:leh";
 

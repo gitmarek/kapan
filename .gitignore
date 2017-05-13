@@ -1,6 +1,13 @@
-kapan.o
 kapan
+
+# Vim backup files
 *.swp
 *~
+
+# Build dir
 build
 bin
+
+# Git diffs
+*.orig
+*.diff

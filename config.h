@@ -8,5 +8,5 @@
 #define KAPANDIR HOME "/.kapan"
 
 #define	DATEMSK KAPANDIR "/datemsk"
-#define DELIM "|"
+#define DELIM "/"
 #define DATABASE KAPANDIR "/events"
